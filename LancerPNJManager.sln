@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LancerPNJManager", "LancerPNJManager\LancerPNJManager.csproj", "{0E111481-2E3E-46B7-8FC3-AFF4645D9044}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E111481-2E3E-46B7-8FC3-AFF4645D9044}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E111481-2E3E-46B7-8FC3-AFF4645D9044}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E111481-2E3E-46B7-8FC3-AFF4645D9044}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E111481-2E3E-46B7-8FC3-AFF4645D9044}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F28B38B-0E83-4D81-9016-F2C274B5F12E}
+	EndGlobalSection
+EndGlobal
